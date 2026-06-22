@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Stop.PromoTe.Controllers/Stop.PromoTe.Controllers.csproj" />
+    <Project Path="src/Stop.PromoTe.Core/Stop.PromoTe.Core.csproj" />
+  </Folder>
+</Solution>
